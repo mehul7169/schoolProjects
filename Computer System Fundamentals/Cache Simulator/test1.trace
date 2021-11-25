@@ -1,0 +1,5 @@
+s 0x1fffff50 1 miss               11111111111111111111 1 01010000, miss     index 1 half-filled
+l 0x1ffaff50 1 miss               11111111110101111111 1 01010000, miss     index 1 filled
+l 0x1fffaf50 1 miss evicted 1     11111111111111010111 1 01010000, evicted  evicted by fifo
+s 0x1fffff66 1 miss               11111111111111111111 1 01100110, evicted  evicted by fifo
+l 0x1fffff50 1 miss               11111111111111111111 1 01010000, hit      hit because index and tag location has something
