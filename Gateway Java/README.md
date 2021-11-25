@@ -8,4 +8,6 @@ TicTacToe:
   This program runs a two player TicTacToe game and logs the state of the board to a new file called "log.txt". 
   Download and run the file, follow the commands on the terminal to play the game!!
   
+CrazyEights:
+  Follow the instructions in the README file in crazyEights folder. 
 
