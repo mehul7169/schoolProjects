@@ -1,0 +1,107 @@
+commit 6d40f03106df8c0006c06742fe5517be39021396
+Author: Mehul <magarw13@jhu.edu>
+Date:   Thu Feb 27 22:49:20 2020 -0500
+
+    Final update
+
+commit c42ddaa79f31b76dc5bd11c4fd65eb1897dc537b
+Author: Mehul <magarw13@jhu.edu>
+Date:   Thu Feb 27 21:08:54 2020 -0500
+
+    Fixed issues in hw3.c
+
+commit 6bd7cb8f44de570f6fecb4a3b2d754464977b4b7
+Author: Mehul <magarw13@jhu.edu>
+Date:   Thu Feb 27 20:38:51 2020 -0500
+
+    Finished hw3.c, dnasearch.c, dnasearch.h and Makefile. yet to finsih test_dnasearch.c
+
+commit 99b25e8cbbe174af453878fe6d4e270722e37bc1
+Author: Mehul <magarw13@jhu.edu>
+Date:   Mon Feb 24 17:42:47 2020 -0500
+
+    Added not found pattern code
+
+commit bee8b56ba179ff9326692ca2421bf25a5e04cfda
+Author: Mehul <magarw13@jhu.edu>
+Date:   Mon Feb 24 16:59:45 2020 -0500
+
+    Added multiple code fragments for hw3.c
+
+commit b3f23916ab00e6186031c4a7a6f20f27824c2a66
+Author: Mehul <magarw13@jhu.edu>
+Date:   Mon Feb 24 16:19:39 2020 -0500
+
+    commiting all files
+
+commit 662206ea9f1f99be84ac76c1d8f02b9508c53fb7
+Author: Mehul <magarw13@jhu.edu>
+Date:   Wed Feb 12 17:12:41 2020 -0500
+
+    Updating files again
+
+commit 5d7a08293964b9064bdfcfccc941701cff7c3482
+Author: Mehul <magarw13@jhu.edu>
+Date:   Wed Feb 12 16:59:36 2020 -0500
+
+    updating arithnetic.c and gitlog.txt for the 2nd time
+
+commit 3ef8325f6e9ea592ea5ff677182ae4df24f8a6f2
+Author: Mehul <magarw13@jhu.edu>
+Date:   Wed Feb 12 16:40:56 2020 -0500
+
+    Updating gitlog.txt
+
+commit 8464fde868804f78be3d6dfaaa2cddf2c7f64bad
+Author: Mehul <magarw13@jhu.edu>
+Date:   Wed Feb 12 16:40:00 2020 -0500
+
+    Updating arithmetic.c
+
+commit 16af99edfce6e0102107aee9256a22feae612f5a
+Author: Mehul <magarw13@jhu.edu>
+Date:   Wed Feb 12 16:31:04 2020 -0500
+
+     First commit for this homework with both files
+
+commit d2072bcba179e3a60b3a425dff18f0e6582acd4a
+Author: Mehul <magarw13@jhu.edu>
+Date:   Mon Feb 10 12:24:42 2020 -0500
+
+    Updating arithmetic.c
+
+commit dac2d792c189178237eb8477ead45febb6c49984
+Author: Mehul <magarw13@jhu.edu>
+Date:   Mon Feb 10 11:35:36 2020 -0500
+
+    adding file for first time to be safe
+
+commit bbb6e32934fd38aa69b39e47f655c8dcf7a22473
+Author: Mehul <magarw13@jhu.edu>
+Date:   Tue Feb 4 15:24:57 2020 -0500
+
+    created first.c second.c third.c
+
+commit 09f116d3fa2e62020be88b625332ed8ddc2261e6
+Author: Mehul <magarw13@jhu.edu>
+Date:   Tue Feb 4 15:16:04 2020 -0500
+
+    commit first.c second.c third.c
+
+commit b380d0b05a3fae3b0f09aecca6bfba16afd1745a
+Author: Mehul <magarw13@jhu.edu>
+Date:   Tue Feb 4 14:52:15 2020 -0500
+
+    updated README
+
+commit 139113b25bb7d28c368305f35a09eacf258a2102
+Author: Mehul <magarw13@jhu.edu>
+Date:   Tue Feb 4 14:48:13 2020 -0500
+
+    commit README
+
+commit 851c322ccebc1ccfe53cde7df397f11aadaf652f
+Author: Mehul Agarwal <magarw13@jhu.edu>
+Date:   Tue Feb 4 19:44:01 2020 +0000
+
+    Initial commit
